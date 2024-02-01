@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MerloIsmael a student of Geophysics that loves programming 
 - 👀 I’m interested in be a fullstack dev while i study in university of Geophysics 
-- 🌱 I’m currently learning front end + python
+- 🌱 I’m currently learning front end + java
 - 💞️ I’m learning and at some time i will like to use my programming knowledge to financiate my college
 - 📫 How to reach me: merloismaeldavid@gmail.com
 
